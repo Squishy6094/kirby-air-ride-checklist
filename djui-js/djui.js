@@ -326,7 +326,6 @@ function djui_on_render() {
         );
         throw formattedError;
     }
-    canvas._djui_link_boxes = [];
     _djui_mouse_buttons_prev = _djui_mouse_buttons_down;
 }
 setInterval(djui_on_render, 1000 / 30); // Update 30 times a second
