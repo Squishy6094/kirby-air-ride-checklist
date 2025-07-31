@@ -48,8 +48,8 @@
 	"font-width-class": "5",
 	"font-creation-date": "2025-07-28",
 	"font-creation-time": "01:02",
-	"font-modification-date": "2025-07-28",
-	"font-modification-time": "01:30",
+	"font-modification-date": "2025-07-30",
+	"font-modification-time": "22:46",
 	"font-modification-auto": true,
 	"overrides": [
 		"# hide the pixels of the \"space\" characters!",
@@ -57,13 +57,16 @@
 		"hide \\s",
 		"left \\s 16",
 		"left : -5",
+		"left l -5",
+		"left i -5",
+		"left I -5",
+		"left m 6",
 		"default_char x",
 		"",
 		"",
 		"ignore past_ascent"
 	],
 	"font-preview-text": [
-		"Unlock Dragoon Parts A, B,",
-		"and C on the Checklist!"
+		"HILLSIDE"
 	]
 }
